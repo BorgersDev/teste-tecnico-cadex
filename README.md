@@ -56,6 +56,7 @@ npm run dev
 
 - **Listagem de Assets:** Visualização em cards.
 - **Filtros:** Busca por nome e filtro por tipo de equipamento (POLE, CTO, EQUIPMENT).
+
 - **CRUD Completo:** Criação, Edição e Exclusão de Assets.
 - **Feedback Visual:** Sistema de Toasts para sucesso/erro e Modais para formulários de criação e edição.
 - **Persistência:** Dados armazenados em memória (Array).
@@ -82,6 +83,12 @@ No Frontend, embora o **Tailwind CSS** tenha facilitado a estilização, a integ
 
 ###  Melhorias Futuras
 Com mais tempo, a prioridade seria a implementação de um **Banco de Dados** real (como PostgreSQL ou MongoDB). Isso traria persistência verdadeira aos dados, permitiria consultas mais complexas e garantiria a escalabilidade, pensando principalmente numa quantidade grande de Assets cadastrados.
+
+---
+
+## Visualização Frontend
+
+https://github.com/user-attachments/assets/05d29278-142f-4f19-b82d-0abd28cb167e
 
 ---
 
