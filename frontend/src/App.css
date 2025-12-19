@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@theme {
+  --color-cadex-primary: #00CBA9;
+  --color-cadex-secondary: #0F2335;
+  --color-cadex-bg: #F4F6F8;
+  --color-cadex-text: #0F2335;
+}
